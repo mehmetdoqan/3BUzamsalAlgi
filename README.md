@@ -2,6 +2,8 @@
 
 Birim Küp ile 3 Boyutlu Düşünme Eğitim Programı kapsamında geliştirilen web tabanlı öğretmen uygulamasıdır.
 
+https://mehmetdoqan.github.io/3BUzamsalAlgi/
+
 ## 🎯 Projenin Amacı
 
 Çocukların fiziksel birim küplerle gerçekleştirecekleri etkinlikleri desteklemek ve üç boyutlu uzamsal algı becerilerini geliştirmeye yönelik görev modelleri hazırlamak.
